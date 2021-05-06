@@ -1,0 +1,30 @@
+{
+  "name": "Name of the corpus",
+  "locale": "es-ES",
+  "data": [
+    {
+      "intent": "agent.birthday",
+      "utterances": [
+        "when is your birthday",
+        "when do you celebrate your birthday",
+        "when were you born",
+        "when do you have birthday",
+        "date of your birthday"
+      ],
+      "answers": [
+        "Espera, ¿Estás planeando una fiesta para mi? ¡Es hoy! ¡Mi Cumpleaños es hoy!",
+        "Yo soy joven. No estoy seguro de mi fecha de nacimiento",
+        "I don't know my birth date. Most virtual agents are young, though, like me."
+      ]
+    },
+    {
+      "intent": "joke.chucknorris",
+      "utterances": [
+        "tell me a chuck norris fact",
+        "tell me a joke about chuck norris",
+        "say a chuck norris joke",
+        "some chuck norris fact"
+      ]
+    }
+  ]
+}
